@@ -1,0 +1,71 @@
+Segment Rūāmā»v
+
+„Katra diena arvien labāka
+
+SIA RIMI LATVIA
+Jur. adrese: Rīga, A. Deglava iela 161
+Rimi Hyper Origo (Rīga)
+
+Kāse Nr. 31
+
+PVN maksātāja nunur:
+Šasijas nymur:
+Čeks -:
+- Elektroniska izdruka
+KLIENTS: 0000000005 826
+
+LV40003053029
+
+SP-LV00838
+
+
+Segment Svece MULLER lavanda 4 h 18
+gab.
+1 gab X 3,19 EUR 3,19A
+
+Segment Maksājumu karte
+
+Apmakša
+BEZKONTAKTA KARTE
+
+BANKAS KVĪTS NR. 725236
+TERMINĀLA ID 31556401
+TIRGOTĀJA ID 3155645
+LAIKS 2023-12-06 16:23:04
+MASTER CARD arkakasn****1733
+'A0000000041010 'TVR:0000008001
+
+TSIE600 AIP1980 > <"AR0C:3C454A32EDEE588A
+Debit Mastercard
+
+KOPĀ: 3,19 EUR
+dutorisāct aa 545304 T:1
+
+Segment Vom a i jaiesje a k e ss aaa a aaam mnanmaai
+RRN: 000088229884
+
+Segment Nopelnītā Mans Rimi nauda
+Mans Rimi naudas uzkrājums 0136
+Ietaupījums ar Mans Rimi karti
+
+šonmēnes 6,54
+
+Segment Samaksai EUR 3,19
+
+Segment Nodoklis Ar PVN - Bez PVN PVN summa
+A 21,00 % 3,19 2,64 0,55
+Bankas karte 3,19
+
+Segment Dok. Nr.: 339/327650 Kase 0031
+FB numurs: 099016178991106
+
+03118424
+
+2023-12-06 16:23:16
+
+
+Segment 
+Segment 
+Segment 
+Segment 
+Segment 
