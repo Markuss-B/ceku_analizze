@@ -15,6 +15,7 @@ def post_process_cleanup(text):
     text = text.replace("AtĪ.", "Atl.") # common misspelling of "Atl."
     text = text.replace("Atīl.", "Atl.") # common misspelling of "Atl."
     text = text.replace("At1l.", "Atl.") # common misspelling of "Atl."
+    text = text.replace("At1.", "Atl.") # common misspelling of "Atl."
     text = text.replace("ĒUR", "EUR") # EUR gets misspelled as ĒUR
     text = text.replace("EŪR", "EUR")
     text = text.replace("FUR", "EUR")
@@ -28,7 +29,11 @@ def post_process_cleanup(text):
     text = re.sub(r'Ž,(\d)', r'2,\1', text)
 
     # find all misspellings of "Gala cena" with fuzzywuzzy and replace them with "Gala cena"
-    gala_cena_misspellings = ["Gala cena", "Gala cema", "Gala cenā"
+    gala_cena_misspellings = ["Gala cena", "Gala cema", "Gala cenā", '"Gala cena', "'Gala cena", '\'"Gala cena']
+    for misspelling in gala_cena_misspellings:
+        text = text.replace(misspelling, "Gala cena")
+
+    text = text.replace("” Gala cena", " Gala cena")
 
     return text
 

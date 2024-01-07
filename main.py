@@ -30,8 +30,10 @@ def main():
     
     # now lets identify products
     products = get_product_names(receipts_dict)
-    print(products)
+    # print(products)
+    # print(receipts_dict[42])
     # find_products_of_same_name(products)
-    # find_products_of_same_name_but_misspelled(products)
+    matched_products = find_products_of_same_name_but_misspelled(products)
+    print(matched_products[0])
 
 main()

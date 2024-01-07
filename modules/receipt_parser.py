@@ -73,7 +73,7 @@ def extract_products_details(text):
 
     # Define patterns for price details and discounts
     price_detail_pattern = re.compile(r'\d+(,\d+)?(\s*|.)(gab|kg|g|ml|l)\s*(X|x)(\s*|.)\d+(,\d+)?\s*EUR')
-    discount_pattern = re.compile(r'(Atl|atl)\.\s+-\d+(,\d+)?\s+((G|g)ala(\s+|.)cena)?\s+\d+(,\d+)?')
+    discount_pattern = re.compile(r'(Atl|atl)\.\s+-\d+(,\d+)?\s+.*((G|g)ala(\s+|.)cena)?\s+\d+(,\d+)?')
 
     # Split text into lines and remove empty lines
     lines = [line.strip() for line in text.split('\n') if line.strip()]
