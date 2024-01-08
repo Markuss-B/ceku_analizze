@@ -1,90 +1,63 @@
 # Grocery Receipt Analysis Project
 
-This project analyzes grocery receipts to track product prices and shopping habits. It uses Python for OCR (Optical Character Recognition), data parsing, and analysis.
-Project uses rimi estore sitemap data for fixing ocr data (standardizes product names).
-Scanning receipts and fixing names takes a while.
+## Overview
+This project analyzes rimi grocery receipts to track product prices. It uses Python and Tesseract OCR for scanning receipts. Data from Rimi e-store's sitemap is used to correct OCR results and standardize product names. Main features include:
+- Price History for a Specific Product
+    - Graph product price history
+- Most Bought Products
+- Most Expensive Products
+- Most Expensive Receipt
 
-The folder 'receipts' holds the receipt images to be scanned by ocr
-The folder 'texts' holds the OCR scanned receipt texts in individidual files
-The file 'receipts.txt' holds the receipts as a dictionary
-The file 'rimi_products.txt' hold the product names extracted from the sitemap.
-The file 'receipts_spellchecked.txt' hold that same dictionary spellechecked with the rimi sitemap data and with the help of fuzzywuzzy.
-
-
+## Repository Structure
+- `receipts/`: Receipt images for OCR.
+- `texts/`: OCR-scanned receipt texts.
+- `receipts.txt`: Scanned receipts in dictionary format.
+- `rimi_products.txt`: Product names from the Rimi sitemap.
+- `receipts_spellchecked.txt`: Enhanced receipt data.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
-
-What things you need to install the software and how to install them:
-
-- Python 3.12 or higher
-- Pip (Python package manager)
+- Python 3.12+
+- Pip
 - Tesseract OCR
 
-### Installing
-
-A step-by-step series of examples that tell you how to get a development environment running:
-
-1. **Clone the Repository**
-   
-   ```
-   git clone https://github.com/your-username/grocery-receipt-analysis.git
-   cd grocery-receipt-analysis
+### Setup and Installation
+1. **Clone and Navigate:**
+   ```shell
+   git clone https://github.com/Hus47/ceku_analizze.git
+   cd ceku_analizze
    ```
 
-2. **Set Up a Virtual Environment**
+2. **Virtual Environment:**
+   - **Windows**: `.\venv\Scripts\activate`
+   - **Unix/MacOS**: `source venv/bin/activate`
 
-   - Create a virtual environment:
-     
-     ```bash
-     python -m venv venv
-     ```
-   
-   - Activate the virtual environment:
-     
-     - **Windows**:
-       
-       ```
-       .\venv\Scripts\activate
-       ```
-
-3. **Install Python Dependencies**
-
-   ```
+3. **Install Dependencies:**
+   ```shell
    pip install -r requirements.txt
    ```
 
-### Installing Tesseract OCR
+4. **Tesseract OCR (Windows):**
+   - Download from [Tesseract GitHub](https://github.com/UB-Mannheim/tesseract/wiki).
+   - Add to system PATH.
 
-Tesseract OCR is used for image processing and text extraction.
+   Verify:
+   ```shell
+   tesseract --version
+   ```
 
-- **Windows**:
-  
-  Download and install Tesseract from [here](https://github.com/UB-Mannheim/tesseract/wiki). During installation, make sure to add Tesseract to the system PATH.
-
-
-After installation, verify the installation by running:
-
-```
-tesseract --version
-```
-
-## Running the Application
-
-```
+## Usage
+Run the application and choose from the analysis options:
+```shell
 python main.py
 ```
 
-## Built With
+## Technologies Used
+- [Python](https://www.python.org/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [Rich](https://github.com/willmcgugan/rich)
+- [Matplotlib](https://matplotlib.org/)
 
-* [Python](https://www.python.org/) - The programming language used
-* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR engine
-* [Rich](https://github.com/willmcgugan/rich) - Used for beautiful CLI interfaces
-
-
-## Authors
-
-* **Markuss Birznieks** - *Initial work* - [Hus47](https://github.com/Hus47)
+## Contributors
+- **Markuss Birznieks** ([Hus47](https://github.com/Hus47))
