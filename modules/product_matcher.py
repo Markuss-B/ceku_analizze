@@ -6,79 +6,58 @@
     # 6. Normalize names of the products
 from fuzzywuzzy import process
 
-def get_product_names(receipts: dict):
-    # 1. Get all products from the receipts
-    products = []
-    i = 0
-    for receipt in receipts:
+def spellcheck_receipts(receipts_dict, standardized_names):
+    """
+    Spellcheck all products in the receipts.
+
+    Parameters:
+    receipts_dict (dict): Dictionary of receipts.
+    standardized_names (list): List of standardized product names.
+
+    Returns:
+    dict: Dictionary of receipts with spellchecked products.
+    """
+    for receipt in receipts_dict:
         for product in receipt['products']:
-            # save product name with receipt id
-            products.append([product['name'], i])
-        i += 1
-    
-    return products
-
-def find_products_of_same_name(products: list):
-    # 2. Find all products of the same name
-    for product in products:
-        occurances = products.count(product)
-        print(f'{product} occurs {occurances} times')
-    
-def find_products_of_same_name_but_misspelled(products: list):
-    # 3. Find products of the same name but misspelled
-    # make all words lowercase
-    # for i in range(len(products)):
-    #     products[i] = products[i].lower()
-    #     # remove all commas and special characters
-    #     remove = [',', '.', '!', '?', '"', "'", '(', ')', '[', ']', '{', '}', ':', ';', '-', '_', '+', '=', '/', '\\', '|', '<', '>', '@', '#', '$', '%', '^', '&', '*', '~', '`']
-    #     for char in remove:
-    #         products[i] = products[i].replace(char, '')
-    #     # remove all numbers
-    #     products[i] = ''.join([i for i in products[i] if not i.isdigit()])
-
-    # sort them alphabetically
-    products.sort()
-
-    product_matches = {}
-    products_matched = {}
-    for product, id in products:
-        # print(product_matches)
-        if product in product_matches.keys():
-            # print(f'{product} already has a match')
-            continue
-        matches = find_similar_products(product, products)
-        product_matches[product] = matches
-        if len(matches) > 0:
-            products_matched[[product, id]] = matches
-            # print(f'{product, id} has the following misspellings: {matches}')
-        # else:
-            # print(f'{product} has no misspellings')
-        # print(f'{product} has the following misspellings: {matches}')
-    
-    return products_matched
-
-
-def find_similar_products(misspelled_name, product_list, limit=4):
-    # Normalize and preprocess the names
-    misspelled_name = misspelled_name.lower()
-    product_list = [[product.lower(), id] for product, id in product_list if product.lower() != misspelled_name]
-
-    # Get the top 'limit' matches based on similarity
-    matches = process.extract(misspelled_name, product_list, limit=limit)
-
-    # Keep the ones with score >90
-    matches = [match[0] for match in matches if match[1] >= 90 and match[1] <100]
-    # print(matches)
-
-    return matches
-
-def normalize_product_names(receipts_dict, products_mathed):
-    # 6. Normalize names of the products
-    for product in products_mathed:
-        for match in products_mathed[product]:
-            # print(match)
-            # print(receipts_dict[match[1]]['products'][match[2]]['name'])
-            receipts_dict[match[1]]['products'][match[2]]['name'] = product
-            # print(receipts_dict[match[1]]['products'][match[2]]['name'])
-    
+            best_match = find_best_match(product['name'], standardized_names)
+            if best_match[1] > 80:
+                print(product['name'] + ' -> ' + best_match[0] + ' with score ' + str(best_match[1]))
+                product['name'] = best_match[0]
+            else:
+                print(product['name'] + ' -> ' + 'No match found')
     return receipts_dict
+
+def find_best_match(product_name, standardized_names):
+    manual_replacements = {
+        "Kons. baltās pupiņas Rimi Smart 400/2409'": 'baltas pupinas rimi smart 400g',
+        'Melnās olīvas Rimi Basic bez kauliņiem 260g.':'melnas olivas rimi bez kauliniem 350g 150g',
+        'Dabīgi gāzēts tējas dz. Sun365 kombūcha 0,5L':'tejas dzer kombucha trad sun365 bio 0 5l'
+    }
+    if product_name in manual_replacements:
+        return [manual_replacements[product_name], 100]
+    # preprocess product_name
+    product_name = product_name.lower()
+    # replace latvian letters with english letters
+    lv_let = {
+        'ā': 'a',
+        'č': 'c',
+        'ē': 'e',
+        'ģ': 'g',
+        'ī': 'i',
+        'ķ': 'k',
+        'ļ': 'l',
+        'ņ': 'n',
+        'š': 's',
+        'ū': 'u',
+        'ž': 'z'
+    }
+    for letter in product_name:
+        if letter in lv_let:
+            product_name = product_name.replace(letter, lv_let[letter])
+
+    # remove all non-alphanumeric characters
+    product_name = ''.join(e if e.isalnum() else ' ' for e in product_name)
+
+
+    best_match = process.extractOne(product_name, standardized_names)
+    return best_match

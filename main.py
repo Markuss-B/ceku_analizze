@@ -15,6 +15,7 @@ import json
 from modules.receipt_scanner import scan_multiple_receipts, write_receipts_texts_to_files
 from modules.receipt_parser import parse_multiple_receipts, parse_multiple_receipts_folder
 from modules.product_matcher import *
+from modules.xml_extraction import get_rimi_products
 
 def main():
     # receipt_texts = scan_multiple_receipts('receipts')
@@ -27,13 +28,13 @@ def main():
     # save it to file json format
     # with open('receipts.txt', 'w', encoding='utf-8') as f:
     #     json.dump(receipts_dict, f, indent=4)
-    
-    # now lets identify products
-    products = get_product_names(receipts_dict)
-    # print(products)
-    # print(receipts_dict[42])
-    # find_products_of_same_name(products)
-    matched_products = find_products_of_same_name_but_misspelled(products)
-    print(matched_products[0])
+
+    rimi_products = get_rimi_products()
+    print(rimi_products)
+
+    spellchecked_receipts = spellcheck_receipts(receipts_dict, rimi_products)
+    # print(spellchecked_receipts)
+    with open('receipts_spellchecked.txt', 'w', encoding='utf-8') as f:
+        json.dump(spellchecked_receipts, f, indent=4)
 
 main()

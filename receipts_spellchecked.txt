@@ -1,0 +1,2976 @@
+[
+    {
+        "date": "2024-01-04 12:32:33",
+        "store": "Rimi",
+        "total": 1.26,
+        "products": [
+            {
+                "name": "datelu batonins rimi zemesr zirnu olb 30g",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "batonins the beginnings flapjack kakao 60g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-13 16:38:03",
+        "store": "Rimi",
+        "total": 16.2,
+        "products": [
+            {
+                "name": "zirnu uzkodas ar bbq garsu oho 100g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pilngr makaroni dobele nr 7 spaghetti 500g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "merce pastai bolognese ica ar soju 390g",
+                "price_per_unit": 2.05,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 410.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kivi kalibrs c 27 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 0.416,
+                "measurement_unit": "kg",
+                "total": 1.66,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati romantica rimi 1kl 300g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.0,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.29,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-12 21:44:54",
+        "store": "Rimi",
+        "total": 6.15,
+        "products": [
+            {
+                "name": "tualetes papirs rimi 3 slani 8 rulli",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss rimi planet ar olivam 180g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.26,
+                "total_with_discount": 1.89
+            },
+            {
+                "name": "sampinjoni rimi brunie 250g",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": -0.22,
+                "total_with_discount": 1.27
+            }
+        ]
+    },
+    {
+        "date": "2023-12-09 18:48:12",
+        "store": "Rimi",
+        "total": 1.49,
+        "products": [
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 120g",
+                "price_per_unit": 2.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.55,
+                "discount": -1.06,
+                "total_with_discount": 1.49
+            }
+        ]
+    },
+    {
+        "date": "2023-12-06 16:23:16",
+        "store": "Rimi",
+        "total": 3.19,
+        "products": [
+            {
+                "name": "svece muller lavanda 4 h 18 gab ",
+                "price_per_unit": 3.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.19,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-06 16:16:00",
+        "store": "Rimi",
+        "total": 6.77,
+        "products": [
+            {
+                "name": "kvinojas darzenu maisij rimi greatlife 500g",
+                "price_per_unit": 4.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kivi gold 2 skira 500g",
+                "price_per_unit": 2.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.39,
+                "discount": -1.1,
+                "total_with_discount": 1.29
+            },
+            {
+                "name": "brusketa rimi ar tomatiem un oregano 150g",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": -0.16,
+                "total_with_discount": 1.29
+            }
+        ]
+    },
+    {
+        "date": "2023-12-05 14:21:30",
+        "store": "Rimi",
+        "total": 3.39,
+        "products": [
+            {
+                "name": "kazoks bez silkes 400g",
+                "price_per_unit": 3.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.39,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-03 17:37:40",
+        "store": "Rimi",
+        "total": 4.19,
+        "products": [
+            {
+                "name": "kvinojas darzenu maisij rimi greatlife 500g",
+                "price_per_unit": 4.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4.19,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-02 15:48:37",
+        "store": "Rimi",
+        "total": 2.41,
+        "products": [
+            {
+                "name": "arom vina sat dzeriens st gabriel 8 5 1l",
+                "price_per_unit": 3.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.99,
+                "discount": -1.6,
+                "total_with_discount": 2.39
+            },
+            {
+                "name": "marineti gurki rimi 3 6cm 670g 370g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.99,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-01 22:14:27",
+        "store": "Rimi",
+        "total": 26.96,
+        "products": [
+            {
+                "name": "kviesu milti dobele ekstra 1kg",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomatu merce spilva luksus 510g",
+                "price_per_unit": 2.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.49,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "ella iecavnieks extra virgin rapsu neraf 1l",
+                "price_per_unit": 4.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4.55,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kartupeli 40 60 mm kg",
+                "price_per_unit": 0.65,
+                "quantity": 2.192,
+                "measurement_unit": "kg",
+                "total": 142.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tofu ica basic 450g",
+                "price_per_unit": 3.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.55,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "merce pastai arrabiata ica ar tofu 390g",
+                "price_per_unit": 2.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.69,
+                "discount": -0.4,
+                "total_with_discount": 2.29
+            },
+            {
+                "name": "zirni variti 500g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 169.0,
+                "discount": -0.2,
+                "total_with_discount": 1.49
+            },
+            {
+                "name": "pupinas rimi varitas 300g",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sampinjoni rimi 400g",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": -0.56,
+                "total_with_discount": 1.29
+            },
+            {
+                "name": "tomati rimi plumes sarkani mini 250g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "rudzu maize latvijas graudu ar sek 800g",
+                "price_per_unit": 2.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 29.0,
+                "discount": -0.55,
+                "total_with_discount": 1.64
+            },
+            {
+                "name": "salatu maisijums fit easy green red 150g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "loki 100g latvija",
+                "price_per_unit": 1.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.39,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-28 14:22:38",
+        "store": "Rimi",
+        "total": 10.62,
+        "products": [
+            {
+                "name": "kuka kuko bruklenu abolu veganiska 200",
+                "price_per_unit": 3.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zemesr krems i love eco bez sals cuk 350g",
+                "price_per_unit": 4.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4298.0,
+                "discount": -0.5,
+                "total_with_discount": 3.79
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-31 15:14:20",
+        "store": "Rimi",
+        "total": null,
+        "products": [
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3298.0,
+                "discount": -3.29,
+                "total_with_discount": 0.0
+            }
+        ]
+    },
+    {
+        "date": "2023-11-25 19:29:03",
+        "store": "Rimi",
+        "total": 43.68,
+        "products": [
+            {
+                "name": "pupinas rimi baltas 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 4.0,
+                "measurement_unit": "gab",
+                "total": 3.4,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas dzeriens alpro ar kalciju 1l",
+                "price_per_unit": 3.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.09,
+                "discount": -0.7,
+                "total_with_discount": 2.39
+            },
+            {
+                "name": "triju darzenu maisijums rimi 400g",
+                "price_per_unit": 1.24,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 124.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "spinati rimi griezti saldeti 400g",
+                "price_per_unit": 1.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.39,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "dzems rimi mellenu 450g",
+                "price_per_unit": 4.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli sarkanie skeles marineti 400g",
+                "price_per_unit": 2.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.09,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "rimi papira maiss mazs 32x17x34",
+                "price_per_unit": 0.2,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.69,
+                "quantity": 0.972,
+                "measurement_unit": "kg",
+                "total": 164.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "paprika sarkana 70 mm 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 0.394,
+                "measurement_unit": "kg",
+                "total": 157.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pasta i love eco spaghetti 500g",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": -0.66,
+                "total_with_discount": 1.19
+            },
+            {
+                "name": "tomati plumes mini 500g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.0,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "tofu ica 230g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sampinjoni rimi 400g",
+                "price_per_unit": 1.65,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": -0.28,
+                "total_with_discount": 1.57
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veg aug prod green zila pelejuma g 150g",
+                "price_per_unit": 3.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss rimi planet ar olivam 180g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kebaba maize 210g",
+                "price_per_unit": 1.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 109.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "citroni mayer c 2 3 1 skira kg",
+                "price_per_unit": 2.29,
+                "quantity": 0.224,
+                "measurement_unit": "kg",
+                "total": 0.51,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "loki 100g latvija",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.29,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "salatu maisijums fit easy green red 150g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "brusketa rimi ar tomatiem un oregano 150g",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-23 18:34:17",
+        "store": "Rimi",
+        "total": 4.84,
+        "products": [
+            {
+                "name": "sampinjoni rimi brunie 250g",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": -0.22,
+                "total_with_discount": 1.27
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "ananasi lielie kg",
+                "price_per_unit": 1.99,
+                "quantity": 1.552,
+                "measurement_unit": "kg",
+                "total": 3.09,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-21 21:32:37",
+        "store": "Rimi",
+        "total": 1.45,
+        "products": [
+            {
+                "name": "brusketa rimi ar tomatiem un oregano 150g",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-21 14:24:56",
+        "store": "Rimi",
+        "total": 33.87,
+        "products": [
+            {
+                "name": "rimi papira maiss mazs 32x17x34",
+                "price_per_unit": 0.2,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "marineti gurkisi spilva 3 6cm 670g 360g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": -0.94,
+                "total_with_discount": 2.55
+            },
+            {
+                "name": "sviesta pupinas rimi 400g",
+                "price_per_unit": 0.78,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.78,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi cannellini 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi sarkanas 400g 240g",
+                "price_per_unit": 0.7,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.4,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas dzeriens valsoia ar kalciju 1l",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -0.9,
+                "total_with_discount": 2.09
+            },
+            {
+                "name": "rimi papira maiss mazs 32x17x34",
+                "price_per_unit": 0.2,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "brokoli rimi saldeti 400g",
+                "price_per_unit": 1.07,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zalie zirnisi rimi saldeti 400g",
+                "price_per_unit": 1.01,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 101.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "augu izcelsmes pirkstini veganisks 225g",
+                "price_per_unit": 4.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4.39,
+                "discount": -0.7,
+                "total_with_discount": 3.69
+            },
+            {
+                "name": "zirnu bumbinas gourmet green 160g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "garsvielu maisijums santa maria tako 28g",
+                "price_per_unit": 1.69,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 3.38,
+                "discount": -0.8,
+                "total_with_discount": 2.58
+            },
+            {
+                "name": "tomati plumes mini 500g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.0,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "sampinjoni brunie kg",
+                "price_per_unit": 3.89,
+                "quantity": 0.408,
+                "measurement_unit": "kg",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortilla latvijas maiznieks kviesu 360g",
+                "price_per_unit": 3.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.09,
+                "discount": -1.3,
+                "total_with_discount": 1.79
+            },
+            {
+                "name": "paprika sarkana 70 mm 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 0.156,
+                "measurement_unit": "kg",
+                "total": 0.62,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss rimi planet ar olivam 180g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-19 16:16:31",
+        "store": "Rimi",
+        "total": 1.69,
+        "products": [
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            }
+        ]
+    },
+    {
+        "date": "2023-11-18 17:09:18",
+        "store": "Rimi",
+        "total": 15.34,
+        "products": [
+            {
+                "name": "ananass nogatavinats gab",
+                "price_per_unit": 3.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.89,
+                "discount": -1.4,
+                "total_with_discount": 2.49
+            },
+            {
+                "name": "salatu maisijums fit easy green red 150g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 169.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "olivas ica kalamata bez kauliniem 240g 130g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": -0.2,
+                "total_with_discount": 1.79
+            },
+            {
+                "name": "sampinjoni brunie kg",
+                "price_per_unit": 3.89,
+                "quantity": 0.536,
+                "measurement_unit": "kg",
+                "total": 2.09,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zemesr krems i love eco bez sals cuk 350g",
+                "price_per_unit": 4.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4.29,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-17 18:59:26",
+        "store": "Rimi",
+        "total": 8.06,
+        "products": [
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 250g",
+                "price_per_unit": 4.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4298.0,
+                "discount": -1.7,
+                "total_with_discount": 2.59
+            },
+            {
+                "name": "kvass valmiermuiza rudzu iesala 0 5l",
+                "price_per_unit": 2.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 29.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "Depoz\u012bta maksa",
+                "price_per_unit": 0.1,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.1,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "haribo zel konf pasta frutta 160 g",
+                "price_per_unit": 2.95,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.95,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "brusketa rimi ar tomatiem un oregano 150g",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-14 16:41:07",
+        "store": "Rimi",
+        "total": 50.39,
+        "products": [
+            {
+                "name": "sojas dzeriens valsoia ar kalciju 1l",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -0.9,
+                "total_with_discount": 2.09
+            },
+            {
+                "name": "muslis graci sokolades 500g",
+                "price_per_unit": 4.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 499.0,
+                "discount": -1.0,
+                "total_with_discount": 3.99
+            },
+            {
+                "name": "tomatu merce spilva luksus 510g",
+                "price_per_unit": 2.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2498.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi sarkanas 400g 240g",
+                "price_per_unit": 0.7,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.4,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi baltas 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "makaroni italpasta nr 57 penne rigate 500g",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas produkts tofu ar garsvielam 150g",
+                "price_per_unit": 1.39,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 3.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortilla latvijas maiznieks kviesu 360g",
+                "price_per_unit": 3.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.09,
+                "discount": -1.3,
+                "total_with_discount": 1.79
+            },
+            {
+                "name": "griki rimi smart 800g",
+                "price_per_unit": 1.75,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 175.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "burkani i love eco 1kg",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.99,
+                "discount": -0.3,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "kartupeli 40 60 mm kg",
+                "price_per_unit": 0.65,
+                "quantity": 2.012,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli rimi 1kg",
+                "price_per_unit": 0.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.89,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "garsvielu maisijums santa maria tako 28g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati plumes mini 500g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.0,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "paprika sarkana 70 mm 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 6.574,
+                "measurement_unit": "kg",
+                "total": 29.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "karameles sweet drop ar piena pildijumu kg",
+                "price_per_unit": 4.99,
+                "quantity": 0.088,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "loki 100g latvija",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.69,
+                "quantity": 0.96,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "auglu prod pure smerins mango ananasu 410g",
+                "price_per_unit": 5.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 5.25,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss rimi planet ar olivam 180g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli sarkanie skeles marineti 400g",
+                "price_per_unit": 2.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.09,
+                "discount": -0.3,
+                "total_with_discount": 1.79
+            },
+            {
+                "name": "sampinjoni brunie kg",
+                "price_per_unit": 3.89,
+                "quantity": 0.34,
+                "measurement_unit": "kg",
+                "total": 132.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "lapu kaposts kale 180 g 1 sk",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.49,
+                "discount": -0.22,
+                "total_with_discount": 1.27
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "pastinaka sakne gab ",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-13 22:08:05",
+        "store": "Rimi",
+        "total": 2.99,
+        "products": [
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-30 17:18:47",
+        "store": "Rimi",
+        "total": 12.46,
+        "products": [
+            {
+                "name": "desa veganiem varita 200g",
+                "price_per_unit": 3.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.09,
+                "discount": -0.4,
+                "total_with_discount": 2.69
+            },
+            {
+                "name": "pistacijas grauzdetas un salitas 500g",
+                "price_per_unit": 12.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 12.79,
+                "discount": -7.8,
+                "total_with_discount": 4.99
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.66,
+                "total_with_discount": 1.49
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.29,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-13 22:08:05",
+        "store": "Rimi",
+        "total": 2.99,
+        "products": [
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-10 19:09:16",
+        "store": "Rimi",
+        "total": 7.62,
+        "products": [
+            {
+                "name": "marinade santa maria ar kiploku garsu 75g",
+                "price_per_unit": 2.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.39,
+                "discount": -0.4,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "veganu salas karam riekstu kuka 190g",
+                "price_per_unit": 4.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4498.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veganu kokosriekstu pir ar mango pasif 190g",
+                "price_per_unit": 3.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.99,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-10 14:15:08",
+        "store": "Rimi",
+        "total": 719.0,
+        "products": [
+            {
+                "name": "dezodorants sebamed fresh 50ml",
+                "price_per_unit": 7.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-11-08 16:09:58",
+        "store": "Rimi",
+        "total": 1.05,
+        "products": [
+            {
+                "name": "rudzu maize latvijas graudu ar sek 390g",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": -0.24,
+                "total_with_discount": 1.05
+            }
+        ]
+    },
+    {
+        "date": "2023-11-06 19:11:52",
+        "store": "Rimi",
+        "total": 20.75,
+        "products": [
+            {
+                "name": "auzu krems tere deary kulinarijai 15 250ml",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.7,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.7,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "makaroni italpasta nr 77 500g",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 179.0,
+                "discount": -0.5,
+                "total_with_discount": 1.29
+            },
+            {
+                "name": "paprika rimi salda koniska 250g",
+                "price_per_unit": 2.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss klasiskais 160g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 169.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati plumes mini 500g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "buljona kubini rimi ar darzeniem 120g",
+                "price_per_unit": 1.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 115.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli sarkanie 50 70 mm kg",
+                "price_per_unit": 0.99,
+                "quantity": 0.136,
+                "measurement_unit": "kg",
+                "total": 0.13,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.59,
+                "quantity": 0.734,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": -0.15,
+                "total_with_discount": 1.02
+            },
+            {
+                "name": "kartupeli fri rimi 7mm saldeti 1kg",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -0.6,
+                "total_with_discount": 2.39
+            },
+            {
+                "name": "mango catnijs ica asia originalais 300g",
+                "price_per_unit": 2.95,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.95,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati gabalinos rimi ar baziliku 400g",
+                "price_per_unit": 1.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi baltas 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.85,
+                "discount": -0.1,
+                "total_with_discount": 0.75
+            }
+        ]
+    },
+    {
+        "date": "2023-11-05 17:23:14",
+        "store": "Rimi",
+        "total": 2.15,
+        "products": [
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-10-29 19:46:05",
+        "store": "Rimi",
+        "total": 23.96,
+        "products": [
+            {
+                "name": "merce pastai arrabiata ica ar tofu 390g",
+                "price_per_unit": 2.69,
+                "quantity": 3.0,
+                "measurement_unit": "gab",
+                "total": 8.07,
+                "discount": -1.62,
+                "total_with_discount": 6.45
+            },
+            {
+                "name": "tomatu pasta spilva 260g",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 179.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sampinjoni rimi brunie 250g",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "bulgurs rimi 500g",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortiljas rimi planet pilngraudu kviesu 370g",
+                "price_per_unit": 2.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.45,
+                "discount": -1.04,
+                "total_with_discount": 1.41
+            },
+            {
+                "name": "burkani sverami kg",
+                "price_per_unit": 0.69,
+                "quantity": 0.502,
+                "measurement_unit": "kg",
+                "total": 0.35,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "garsviela santa maria paprika malta 22g",
+                "price_per_unit": 0.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.89,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "salatu maisijums fit easy green red 150g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "lapu kaposts kale 180 g 1 sk",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 120g",
+                "price_per_unit": 2.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.55,
+                "discount": -0.86,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "gazets dzeriens coca cola stikla pud 0 33l",
+                "price_per_unit": 1.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "Depoz\u012bta maksa",
+                "price_per_unit": 0.1,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.1,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-10-28 21:45:58",
+        "store": "Rimi",
+        "total": 2.98,
+        "products": [
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 120g",
+                "price_per_unit": 2.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.55,
+                "discount": -0.86,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "gazets dzeriens coca cola stikla pud 0 33l",
+                "price_per_unit": 1.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "Depoz\u012bta maksa",
+                "price_per_unit": 0.1,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.1,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "vegana tikka masala ar darzeniem 400g",
+                "price_per_unit": 3.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.59,
+                "discount": -3.59,
+                "total_with_discount": 0.0
+            }
+        ]
+    },
+    {
+        "date": "2023-10-25 12:55:43",
+        "store": "Rimi",
+        "total": 4.37,
+        "products": [
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "salati podina gab1 sk ",
+                "price_per_unit": 0.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "marineti gurki rimi 3 6cm 670g 370g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": -0.3,
+                "total_with_discount": 1.69
+            }
+        ]
+    },
+    {
+        "date": "2023-10-22 19:49:42",
+        "store": "Rimi",
+        "total": 9.54,
+        "products": [
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.39,
+                "quantity": 0.78,
+                "measurement_unit": "kg",
+                "total": 1.08,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati latvijas kg 1sk",
+                "price_per_unit": 2.89,
+                "quantity": 0.49,
+                "measurement_unit": "kg",
+                "total": 142.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomatu merce dimdini cili 250g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": -1.0,
+                "total_with_discount": 0.99
+            },
+            {
+                "name": "gurkis garais latvija gab ",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": -0.36,
+                "total_with_discount": 0.69
+            },
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 120g",
+                "price_per_unit": 2.55,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.55,
+                "discount": -0.86,
+                "total_with_discount": 1.69
+            }
+        ]
+    },
+    {
+        "date": "2023-12-28 20:14:06",
+        "store": "Rimi",
+        "total": 54.22,
+        "products": [
+            {
+                "name": "zemesrieksti rimi grauzdeti un saliti kg",
+                "price_per_unit": 0.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.89,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "mandelu dzeriens ica bez piedevam 1l",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kokosriekstu piens rimi planet 400ml",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "dizonas sinepes selection by rimi 210g",
+                "price_per_unit": 2.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.89,
+                "discount": -0.57,
+                "total_with_discount": 2.32
+            },
+            {
+                "name": "tomatu pasta spilva 260g",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 179.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "majoneze spilva 4 sezonu 450g",
+                "price_per_unit": 2.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.89,
+                "discount": -0.5,
+                "total_with_discount": 2.39
+            },
+            {
+                "name": "pilngr muslis rimi ar datel kvin 400g",
+                "price_per_unit": 4.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4698.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kartupeli delikatess fast ica 2kg",
+                "price_per_unit": 2.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.59,
+                "discount": -1.0,
+                "total_with_discount": 1.59
+            },
+            {
+                "name": "brunie risi rimi greatlife 500g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "makaroni dobele nr 122 penne rigate 500g",
+                "price_per_unit": 1.35,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.35,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "merce pastai arrabiata ica ar tofu 390g",
+                "price_per_unit": 2.69,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 5.38,
+                "discount": -1.08,
+                "total_with_discount": 4.3
+            },
+            {
+                "name": "marineti gurki rimi 3 6cm 670g 370g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": -0.5,
+                "total_with_discount": 1.49
+            },
+            {
+                "name": "tomati gabalinos rimi ar raudeni 400g",
+                "price_per_unit": 0.93,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.93,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "paprika rimi mini 200g",
+                "price_per_unit": 0.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kons zalie zirnisi rimi smart 690g 450g",
+                "price_per_unit": 0.77,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.77,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi sarkanas 400g 240g",
+                "price_per_unit": 0.64,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.64,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "ievarijums rudolfs mellenu bio 400g",
+                "price_per_unit": 3.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.79,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "paprika rimi mini 200g",
+                "price_per_unit": 0.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "turku zirni rimi 400g 240g",
+                "price_per_unit": 0.73,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.73,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "dabigais tofu Lunter 180g",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zemesr krems i love eco bez sals cuk 350g",
+                "price_per_unit": 4.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 4298.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "rimi papira maisins liels ziemassvetku",
+                "price_per_unit": 0.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.25,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.79,
+                "quantity": 0.776,
+                "measurement_unit": "kg",
+                "total": 1.39,
+                "discount": -0.16,
+                "total_with_discount": 1.23
+            },
+            {
+                "name": "sampinjoni brunie kg",
+                "price_per_unit": 3.89,
+                "quantity": 0.698,
+                "measurement_unit": "kg",
+                "total": 22.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "maize zeltene seklu 390g",
+                "price_per_unit": 1.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.39,
+                "discount": -0.4,
+                "total_with_discount": 0.99
+            },
+            {
+                "name": "salatu maisijums fit easy family 300g",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.0,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "tomati rimi kirsu mix 300g",
+                "price_per_unit": 2.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kiploki 50 mm kg",
+                "price_per_unit": 4.99,
+                "quantity": 0.166,
+                "measurement_unit": "kg",
+                "total": 0.83,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli kg",
+                "price_per_unit": 0.79,
+                "quantity": 0.31,
+                "measurement_unit": "kg",
+                "total": 0.24,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sipoli sarkanie 50 70 mm kg",
+                "price_per_unit": 1.59,
+                "quantity": 0.132,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "paprika sarkana 70 mm 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 0.408,
+                "measurement_unit": "kg",
+                "total": 163.0,
+                "discount": -0.57,
+                "total_with_discount": 1.06
+            },
+            {
+                "name": "loki fas 100gr",
+                "price_per_unit": 0.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.99,
+                "discount": -0.2,
+                "total_with_discount": 0.79
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.29,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "laims c 48 54 kg",
+                "price_per_unit": 4.49,
+                "quantity": 0.078,
+                "measurement_unit": "kg",
+                "total": 0.35,
+                "discount": -0.11,
+                "total_with_discount": 0.24
+            },
+            {
+                "name": "humoss rimi planet ar olivam 180g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.54,
+                "total_with_discount": 1.61
+            },
+            {
+                "name": "ingvers kg",
+                "price_per_unit": 5.99,
+                "quantity": 0.038,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": -0.03,
+                "total_with_discount": 0.2
+            },
+            {
+                "name": "citroni mayer c 2 3 1 skira kg",
+                "price_per_unit": 2.29,
+                "quantity": 0.188,
+                "measurement_unit": "kg",
+                "total": 0.43,
+                "discount": -0.13,
+                "total_with_discount": 0.3
+            }
+        ]
+    },
+    {
+        "date": "2023-10-20 17:12:44",
+        "store": "Rimi",
+        "total": 16.46,
+        "products": [
+            {
+                "name": "rimi papira maiss liels 32x17x45",
+                "price_per_unit": 0.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.25,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "turku zirni rimi 400g 240g",
+                "price_per_unit": 0.73,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.73,
+                "discount": -0.08,
+                "total_with_discount": 0.65
+            },
+            {
+                "name": "pupinas rimi cannellini 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.85,
+                "discount": -0.25,
+                "total_with_discount": 0.6
+            },
+            {
+                "name": "kokosriekstu piens rimi planet 400ml",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi cannellini 400g 240g",
+                "price_per_unit": 0.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.85,
+                "discount": -0.26,
+                "total_with_discount": 0.59
+            },
+            {
+                "name": "dizonas sinepes selection by rimi 210g",
+                "price_per_unit": 3.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.09,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zalie zirnisi rimi saldeti 400g",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "brokoli rimi saldeti 400g",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "plumes tumsas 500g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kartupeli 40 60 mm kg",
+                "price_per_unit": 0.65,
+                "quantity": 1.42,
+                "measurement_unit": "kg",
+                "total": 0.92,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tomati rimi plumes sarkani mini 250g",
+                "price_per_unit": 1.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 149.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "gurkis garais latvija gab ",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": -0.36,
+                "total_with_discount": 0.69
+            },
+            {
+                "name": "salatu maisijums fit easy family 150g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": -0.7,
+                "total_with_discount": 0.89
+            },
+            {
+                "name": "salatu maisijums fit easy active 120g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": -0.7,
+                "total_with_discount": 0.89
+            },
+            {
+                "name": "pokijs ar tofu un poke merci 320g",
+                "price_per_unit": 3.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.79,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-10-16 12:23:43",
+        "store": "Rimi",
+        "total": 25.89,
+        "products": [
+            {
+                "name": "griku parslas rimi 500g",
+                "price_per_unit": 3.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.198,
+                "discount": -0.9,
+                "total_with_discount": 2.29
+            },
+            {
+                "name": "saule kalteti tomati ella rimi 280g 180g",
+                "price_per_unit": 3.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.89,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "turku zirni spilva 390g",
+                "price_per_unit": 2.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.25,
+                "discount": -1.1,
+                "total_with_discount": 1.15
+            },
+            {
+                "name": "melnas olivas rimi bez kauliniem 350g 150g",
+                "price_per_unit": 0.63,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.63,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "konserveta kukuruza rimi smart 340g 285g",
+                "price_per_unit": 0.71,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.71,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "makaroni italpasta nr 88 farfalle 500g",
+                "price_per_unit": 1.95,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.39,
+                "quantity": 0.856,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "saldskabmaize latviska seklam graudiem 300g",
+                "price_per_unit": 1.15,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 2.3,
+                "discount": -0.32,
+                "total_with_discount": 1.98
+            },
+            {
+                "name": "limonade cesu 1 5l",
+                "price_per_unit": 2.89,
+                "quantity": 0.214,
+                "measurement_unit": "kg",
+                "total": 0.62,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "gurkis garais latvija gab ",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zalumu komplekts 70g",
+                "price_per_unit": 1.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 119.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortiljas santa maria kviesu 371g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": -0.7,
+                "total_with_discount": 2.79
+            },
+            {
+                "name": "salatu maisijums fit easy green red 150g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas produkts tofu ar garsvielam 150g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "citroni mayer c 2 3 1 skira kg",
+                "price_per_unit": 2.29,
+                "quantity": 0.196,
+                "measurement_unit": "kg",
+                "total": 0.45,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "garsvielu maisijums santa maria tako 28g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 169.0,
+                "discount": -0.3,
+                "total_with_discount": 1.39
+            }
+        ]
+    },
+    {
+        "date": "2023-10-14 16:50:42",
+        "store": "Rimi",
+        "total": 9.47,
+        "products": [
+            {
+                "name": "burkani i love eco 1kg",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": -0.46,
+                "total_with_discount": 1.69
+            },
+            {
+                "name": "smalklapu spinati 1 sk 100g",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortiljas santa maria original 320g",
+                "price_per_unit": 2.65,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.65,
+                "discount": -0.46,
+                "total_with_discount": 2.19
+            },
+            {
+                "name": "melna teja ahmad tea english nr 1 100g",
+                "price_per_unit": 3.99,
+                "quantity": 0.084,
+                "measurement_unit": "kg",
+                "total": 0.34,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "paprika sarkana 70 mm 1 skira kg",
+                "price_per_unit": 2.99,
+                "quantity": 0.162,
+                "measurement_unit": "kg",
+                "total": 0.48,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "zirni zelta saule pelekie 1kg",
+                "price_per_unit": 2.09,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.09,
+                "discount": -0.6,
+                "total_with_discount": 1.49
+            }
+        ]
+    },
+    {
+        "date": "2023-10-09 15:11:12",
+        "store": "Rimi",
+        "total": 35.75,
+        "products": [
+            {
+                "name": "griku parslas rimi 500g",
+                "price_per_unit": 3.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.198,
+                "discount": -0.9,
+                "total_with_discount": 2.29
+            },
+            {
+                "name": "tosterm latvijas tost maize pilngraudu 500g",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 179.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kokosriekstu piens rimi planet 400ml",
+                "price_per_unit": 1.45,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.45,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "tortiljas santa maria kviesu 371g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": -0.7,
+                "total_with_discount": 2.79
+            },
+            {
+                "name": "brunie risi rimi greatlife 500g",
+                "price_per_unit": 1.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 169.0,
+                "discount": -0.42,
+                "total_with_discount": 1.27
+            },
+            {
+                "name": "turku zirni rimi 400g 240g",
+                "price_per_unit": 0.73,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.73,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "pupinas rimi melnas 400g 240g",
+                "price_per_unit": 0.86,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": -0.34,
+                "total_with_discount": 1.38
+            },
+            {
+                "name": "konserveta kukuruza rimi smart 340g 285g",
+                "price_per_unit": 0.71,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.71,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "melnas olivas rimi bez kauliniem 350g 150g",
+                "price_per_unit": 0.63,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.63,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "riekstu maisijums premium 300g",
+                "price_per_unit": 5.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 5.99,
+                "discount": -1.1,
+                "total_with_discount": 4.89
+            },
+            {
+                "name": "spinati rimi griezti saldeti 400g",
+                "price_per_unit": 1.39,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.39,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "brokoli rimi saldeti 400g",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 129.0,
+                "discount": -0.2,
+                "total_with_discount": 1.09
+            },
+            {
+                "name": "zalie zirnisi rimi saldeti 400g",
+                "price_per_unit": 1.05,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.05,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 2.0,
+                "measurement_unit": "gab",
+                "total": 1.98,
+                "discount": -0.4,
+                "total_with_discount": 1.58
+            },
+            {
+                "name": "banani kg",
+                "price_per_unit": 1.39,
+                "quantity": 0.878,
+                "measurement_unit": "kg",
+                "total": null,
+                "discount": -0.09,
+                "total_with_discount": 1.13
+            },
+            {
+                "name": "tomati latvijas kg 1sk",
+                "price_per_unit": 2.89,
+                "quantity": 0.268,
+                "measurement_unit": "kg",
+                "total": 0.77,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "humoss ar baravikam 160g",
+                "price_per_unit": 1.79,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 179.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "garsvielu maisijums santa maria tako 28g",
+                "price_per_unit": 1.25,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 125.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kartupeli jaunie kg",
+                "price_per_unit": 0.75,
+                "quantity": 0.348,
+                "measurement_unit": "kg",
+                "total": 0.26,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "burkani sverami kg",
+                "price_per_unit": 0.79,
+                "quantity": 0.456,
+                "measurement_unit": "kg",
+                "total": 0.36,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "salatu maisijums fit easy gurmas 150g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "loki 100g latvija",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.29,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "petersili 30g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "gurkis garais latvija gab ",
+                "price_per_unit": 0.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.99,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "majoneze spilva 4 sezonu 250g",
+                "price_per_unit": 2.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.59,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-23 15:51:27",
+        "store": "Rimi",
+        "total": 2.32,
+        "products": [
+            {
+                "name": "dizonas sinepes selection by rimi 210g",
+                "price_per_unit": 2.89,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.89,
+                "discount": -0.57,
+                "total_with_discount": 2.32
+            }
+        ]
+    },
+    {
+        "date": "2023-12-21 19:31:42",
+        "store": "Rimi",
+        "total": 3.28,
+        "products": [
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kuka kuko bruklenu abolu veganiska 200",
+                "price_per_unit": 3.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.99,
+                "discount": -1.4,
+                "total_with_discount": 2.59
+            }
+        ]
+    },
+    {
+        "date": "2023-12-18 20:23:41",
+        "store": "Rimi",
+        "total": 12.18,
+        "products": [
+            {
+                "name": "sausas brokastis rimi choco shells 250g",
+                "price_per_unit": 0.69,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.69,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "darzenu mais rimi vasaras cepsanai 400g",
+                "price_per_unit": 1.85,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.85,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "kvinojas darzenu maisij rimi greatlife 500g",
+                "price_per_unit": 4.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas olbaltuma izstradajums tofu 150g",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "saldskabmaize limbazu ar seklam un gr 300g",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "avokado gab",
+                "price_per_unit": 0.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.99,
+                "discount": -0.2,
+                "total_with_discount": 0.79
+            },
+            {
+                "name": "kivi kalibrs c 27 1 skira kg",
+                "price_per_unit": 3.99,
+                "quantity": 0.27,
+                "measurement_unit": "kg",
+                "total": 1.08,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    },
+    {
+        "date": "2023-12-16 17:49:39",
+        "store": "Rimi",
+        "total": 6.07,
+        "products": [
+            {
+                "name": "kartupelu cipsi lay s ar cili laima g 190g",
+                "price_per_unit": 3.49,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.49,
+                "discount": -1.5,
+                "total_with_discount": 1.99
+            },
+            {
+                "name": "tejas dzer kombucha trad sun365 bio 0 5l",
+                "price_per_unit": 2.19,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 29.0,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "Depoz\u012bta maksa",
+                "price_per_unit": 0.1,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 0.1,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "rotallietu figurina dino 13 15 cm aw23",
+                "price_per_unit": 2.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.99,
+                "discount": -1.2,
+                "total_with_discount": 1.79
+            }
+        ]
+    },
+    {
+        "date": "2023-12-15 22:53:55",
+        "store": "Rimi",
+        "total": 3.18,
+        "products": [
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3298.0,
+                "discount": -3.29,
+                "total_with_discount": 0.0
+            },
+            {
+                "name": "auzu dzeriens ica 1l",
+                "price_per_unit": 1.59,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 1.59,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "sojas prot dzer alpro ar sok g veg 250ml",
+                "price_per_unit": 1.99,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 199.0,
+                "discount": -0.4,
+                "total_with_discount": 1.59
+            }
+        ]
+    },
+    {
+        "date": "2024-01-04 13:43:35",
+        "store": "Rimi",
+        "total": 5.44,
+        "products": [
+            {
+                "name": "tostermaize toste sendvicu seklu 470g",
+                "price_per_unit": 2.15,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 2.15,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "veganais chili sin carne ar risiem 400g",
+                "price_per_unit": 3.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": 3.29,
+                "discount": null,
+                "total_with_discount": null
+            }
+        ]
+    }
+]
