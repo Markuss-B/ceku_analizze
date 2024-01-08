@@ -31,7 +31,6 @@ This project analyzes rimi grocery receipts to track product prices. It uses Pyt
 
 2. **Virtual Environment:**
    - **Windows**: `.\venv\Scripts\activate`
-   - **Unix/MacOS**: `source venv/bin/activate`
 
 3. **Install Dependencies:**
    ```shell
