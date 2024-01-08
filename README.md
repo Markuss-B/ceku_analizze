@@ -22,19 +22,20 @@ Setting up the receipts data is optional and takes a while. The data is already 
 
 ## Pictures
 0. **Main menu**
+
 ![main_menu](docs/main_menu.png)
 1. **Price History for a specific product**
 ![search_bar](docs/search_bar_1.png)
 ![search_bar](docs/search_bar_2.png)
 1.a **Graph product price history**
 ![price_history](docs/product_price_tracking.png)
-2. **Find most bought products and graph their price history**
+4. **Find most bought products and graph their price history**
 ![most_bought_prices_graphed](docs/top_product_price_graph.png)
-3. **Find most expensive products**
+5. **Find most expensive products**
 ![most_espensive](docs/most_expensive_products_found.png)
-4. **Find most expensive receipt**
+6. **Find most expensive receipt**
 ![most_expensive_receipt](docs/most_expensive_receipt.png)
-5. **Receipt total anaylsis** - option to graph for over time and to graph spent totals over month
+7. **Receipt total anaylsis** - option to graph for over time and to graph spent totals over month
 ![receipt_total](docs/receipt_analysis_1.png)
 ![receipt_total](docs/receipt_analysis_2.png)
 
