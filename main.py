@@ -51,71 +51,50 @@ def main():
         console.print("[2] Most Bought Products")
         console.print("[3] Most Expensive Products")
         console.print("[4] Most Expensive Receipt")
-        console.print("[5] Exit")
+        console.print("[5] Receipt total over time graph")
+        console.print("[0] Exit")
 
-        choice = Prompt.ask("Enter your choice", choices=["1", "2", "3", "4", "5"])
-
-        if choice == "1":
+        choice = Prompt.ask("Enter your choice", choices=["0", "1", "2", "3", "4", "5"])
+        if choice == "0":
+            console.print("Exiting the system. Goodbye!", style="bold red")
+            break
+        elif choice == "1":
             # Initially display the top 10 most bought products
-            sorted_products = sort_products_by_frequency(products_dict)  # Assuming this function is implemented
-            console.print("Most bought products:", style="bold")
-            for index, (name, data) in enumerate(sorted_products[:10], start=1):
-                console.print(f"[{index}] {name} ({len(data)} entries)")
+            sorted_products = sort_products_by_frequency(products_dict)
+            search_option(products_dict, sorted_products, 'Top 10 most bought products:')
 
-            while True:
-                search_query = Prompt.ask("Enter a product name to search, 'select' to choose from the above list, or 'exit' to return")
-
-                if search_query.lower() == 'exit':
-                    break
-
-                if search_query.lower() == 'select':
-                    selected_index = Prompt.ask("Enter the number of the product you want to select", default="1")
-                    try:
-                        selected_product = sorted_products[int(selected_index) - 1][0]
-                        graph_product_price(selected_product, products_dict[selected_product])
-                        break
-                    except (IndexError, ValueError):
-                        console.print("Invalid selection. Please try again.", style="red")
-                else:
-                    # Perform a fuzzy search among all products
-                    matches = process.extract(search_query, products_dict.keys(), limit=10)
-                    console.print("Top matching products:", style="bold")
-                    for i, (match, _) in enumerate(matches, start=1):
-                        console.print(f"[{i}] {match} ({len(products_dict[match])} entries)")
-
-                    selection = Prompt.ask("Select a product number to see its price history, 'search' to search again, or 'exit' to return")
-                    if selection.isdigit() and 1 <= int(selection) <= len(matches):
-                        selected_product = matches[int(selection) - 1][0]
-                        graph_product_price(selected_product, products_dict[selected_product])
-                        break
-                    elif selection.lower() == 'exit':
-                        break
-                    elif selection.lower() != 'search':
-                        console.print("Invalid selection. Please try again.", style="red")
         elif choice == "2":
             moust_bough_products = sort_products_by_frequency(products_dict)
             console.print("Most bought products:", style="bold")
-            for index, (name, data) in enumerate(moust_bough_products[:10], start=1):
+            # Displays the top 5 most bought products
+            for index, (name, data) in enumerate(moust_bough_products[:5], start=1):
                 console.print(f"[{index}] {name} ({len(data)} entries)")
 
-            # graph the price changes for all of them
-            most_bought_products = sort_products_by_frequency(products_dict)[:5]
-            # fix the data format
-            most_bought_dict = {name: data for name, data in most_bought_products}
-
-            graph_multiple_products(most_bought_dict)
+            graph_multiple_products(moust_bough_products[:5])
         elif choice == "3":
             exp_prod = sort_products_by_price_per_unit(receipts)  # Function to be implemented
             console.print("Most expensive products:", style="bold")
             for index, (name, data) in enumerate(exp_prod[:10], start=1):
                 console.print(f"[{index}] {name} ({data[0][2]} €)")
+            
+            # press enter to continue
+            input("Press Enter to continue...")
         elif choice == "4":
             console.print('Finding the most expensive receipt...', style="italic")
             exp_receipt = find_most_expensive_receipt(receipts)
             print_receipt(exp_receipt)
+            console.clear()
         elif choice == "5":
-            console.print("Exiting the system. Goodbye!", style="bold red")
-            break
+            console.print('Displaying receipt total over time graph...', style="italic")
+            # ask to choose over all time or over to sum over months
+            choice = Prompt.ask("[1] Sum over months\n[2] Sum over all time\nEnter your choice", choices=["1", "2", "0"])
+            if choice == "1":
+                graph_receipt_total_over_months(receipts)
+            elif choice == "2":
+                graph_receipt_total_over_time(receipts)
+            elif choice == "0":
+                continue
+            console.clear()
         else:
             console.print("Invalid choice, please try again.", style="red")
 
@@ -163,7 +142,9 @@ def print_receipt(receipt):
         for product in receipt['products']:
             print_product(product, product_table)
         console.print(product_table)
-
+        # ask to continue
+        input("Press Enter to continue...")
+    
 def print_product(product, product_table=None):
     if product_table is None:
         product_table = Table()
@@ -182,5 +163,39 @@ def print_product(product, product_table=None):
     if product_table is None:
         console.print(product_table)
 
+def search_option(products_dict, initial_products, text):
+    console.print(text, style="bold")
+    # print(initial_products)
+    for index, (name, data) in enumerate(initial_products[:10], start=1):
+        console.print(f"[{index}] {name} ({len(data)} entries)")
+
+    while True:
+        search_query = Prompt.ask("Enter a product name to search, or number to choose from the above list, or 'exit' to return")
+
+        if search_query == "exit":
+            break
+
+        if search_query.isdigit():
+            # User chose from the list
+            if int(search_query) <= 10:
+                try:
+                    search_query = initial_products[int(search_query) - 1][0]
+                    graph_product_price(search_query, products_dict[search_query])
+                except IndexError:
+                    console.print("Invalid choice", style="bold red")
+                    continue
+            else:
+                console.print("Invalid choice", style="bold red")
+                continue
+        else:
+            # User entered a search query
+            search_query = search_query.lower()
+
+            # Perform a fuzzy search among all products
+            matches = process.extract(search_query, products_dict.keys(), limit=10)
+            # find matches in products_dict
+            matches = [(name, products_dict[name]) for name, score in matches]
+            search_option(products_dict, matches, "Top matching products:")
+            break
 
 main()
