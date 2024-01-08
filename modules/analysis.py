@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import datetime
 
 def get_products_dict(receipts_dict):
     '''
@@ -65,3 +66,49 @@ def find_most_expensive_receipt(receipts_dict):
             most_expensive = receipt['total']
             most_expensive_receipt = receipt
     return most_expensive_receipt
+
+def sort_products_by_frequency(products_dict):
+    '''
+    Sorts products by frequency.
+    '''
+    sorted_products = sorted(products_dict.items(), key=lambda x: len(x[1]), reverse=True)
+    return sorted_products
+
+def graph_multiple_products(products_dict):
+    """
+    Graphs multiple products in one graph. Each product's data is sorted by date.
+    Args:
+    - products_dict (dict): A dictionary where keys are product names and values are lists of 
+                            [id, date, price_per_unit, ...].
+    """
+    plt.figure(figsize=(10, 6))
+    print(products_dict)
+    print(type(products_dict))
+
+    for product_name, data in products_dict.items():
+        # Ensure data is sorted by date (assuming date is at index 1 in the data)
+        data.sort(key=lambda x: datetime.datetime.strptime(x[1], "%Y-%m-%d %H:%M:%S"))
+
+        # Extract dates and prices for the product
+        dates = [datetime.datetime.strptime(entry[1], "%Y-%m-%d %H:%M:%S") for entry in data]
+        prices = [entry[2] for entry in data]
+
+        # Plot each product's price history
+        plt.plot(dates, prices, label=product_name)
+
+    plt.xlabel('Date')
+    plt.ylabel('Price')
+    plt.title('Price History of Multiple Products')
+    plt.legend()
+    plt.grid(True)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+def sort_products_by_price_per_unit(receipts_dict):
+    '''
+    Sorts products by price per unit.
+    '''
+    products_dict = get_products_dict(receipts_dict)
+    sorted_products = sorted(products_dict.items(), key=lambda x: x[1][0][2], reverse=True)
+    return sorted_products
