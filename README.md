@@ -2,11 +2,25 @@
 
 ## Overview
 This project analyzes rimi grocery receipts to track product prices. It uses Python and Tesseract OCR for scanning receipts. Data from Rimi e-store's sitemap is used to correct OCR results and standardize product names. Main features include:
+![main_menu](docs/main_menu.png)
 - Price History for a Specific Product
+![search_bar](docs/search_bar_1.png)
+![search_bar](docs/search_bar_2.png)
     - Graph product price history
+    ![price_history](docs/product_price_tracking.png)
 - Most Bought Products
+![most_bought_prices_graphed](docs/top_product_price_graph.png)
 - Most Expensive Products
+![most_espensive](docs/most_expensive_products_found.png)
 - Most Expensive Receipt
+![most_expensive_receipt](docs/most_expensive_receipt.png)
+- Receipt total anaylsis
+![receipt_total](docs/receipt_analysis_1.png)
+    - option for total sum over months
+      ![receipt_total](docs/receipt_analysis_2.png)
+
+Setting up the receipts data is optional and takes a while. The data is already loaded in.
+![data_setup](docs/data_setup.png)
 
 ## Repository Structure
 - `receipts/`: Receipt images for OCR.
