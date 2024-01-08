@@ -1,22 +1,17 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Origo (Rīga)
+II i — i ā
 
+Segment Rimi Hyper Origo (Rīga)
 Kāse Nr. 37
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
+PVN maksātāja numurs: LV40003053029
+Šasijas numurs: SP-LV00314
+
+
+Segment - — Elektroniska izdruka -
 KLIENTS: 0000000005 826
-
-LV40003053029
-
-SP-LV00314
 
 
 Segment Sojas dzēriens Valsoia ar
@@ -184,10 +179,12 @@ Bankas karte 50,39
 
 Segment Dok. Nr.: 322/318997 Kase 0037
 FB numurs: 096791364621091
-
 03792091
 
 2023-11-14 16:41:07
-6e58baa4 1a0626c2d7de72c1061dd3£7e956953c
-€09751d10d2ae1e98ae86979159173£9a8e9ec61
+I a a a t a ā aa
 
+
+Segment PODOT 191090 7ae e A a A6070159173£9Ae086061
+
+Segment 

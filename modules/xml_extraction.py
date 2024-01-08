@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import re
 import json
+from rich.progress import Progress
 
 def get_rimi_products():
     product_sitemaps = [
@@ -29,9 +30,18 @@ def get_rimi_products():
         "rimi papira maisins liels ziemassvetku",
         "pokijs ar tofu un poke merci 320g",
         "plumes tumsas 500g",
+        "rimi kaste",
     ]
 
     products += manual_products
+
+    # only save to file the new products
+    with open('rimi_products.txt', 'r') as file:
+        old_products = json.load(file)
+        for product in products:
+            if product not in old_products:
+                old_products.append(product)
+        products = old_products
 
     # save it to file
     with open('rimi_products.txt', 'w') as file:
@@ -58,20 +68,24 @@ def parse_product_sitemaps(product_sitemaps):
         urls += parse_sitemap(url)
     
     products = []
-    for url in urls:
-        # Remove the base URL
-        clean_url = url.replace('https://www.rimi.lv/e-veikals/lv/produkti/', '')
 
-        # Remove the suffix part from the URL
-        product_path = re.sub(r'/p/.*', '', clean_url)
+    with Progress() as progress:
+        task = progress.add_task("Parsing rimi products from sitemap...", total=len(urls))
+        for url in urls:
+            # Remove the base URL
+            clean_url = url.replace('https://www.rimi.lv/e-veikals/lv/produkti/', '')
 
-        # replace - with space
-        product_path = product_path.replace('-', ' ')
+            # Remove the suffix part from the URL
+            product_path = re.sub(r'/p/.*', '', clean_url)
 
-        # Split the remaining URL into categories
-        product_parts = product_path.split('/')
-        name = product_parts[-1]
+            # replace - with space
+            product_path = product_path.replace('-', ' ')
 
-        products.append(name)
+            # Split the remaining URL into categories
+            product_parts = product_path.split('/')
+            name = product_parts[-1]
+
+            products.append(name)
+            progress.update(task, advance=1)
 
     return products

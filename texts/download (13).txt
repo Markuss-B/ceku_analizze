@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Origo (Rīga)
+II i — i ā
 
+Segment Rimi Hyper Origo (Rīga)
 Kāse Nr. 31
+d ka aa aa SE P A ieraa ā t n tS
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV00838
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Svece MULLER lavanda 4 h 18
 gab.
@@ -39,10 +35,10 @@ TSIE600 AIP1980 > <"AR0C:3C454A32EDEE588A
 Debit Mastercard
 
 KOPĀ: 3,19 EUR
-dutorisāct aa 545304 T:1
+Autorizācijas Nr 545304 T
+I a a u
 
-Segment Vom a i jaiesje a k e ss aaa a aaam mnanmaai
-RRN: 000088229884
+Segment RRN: 000088229884
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 0136
@@ -58,14 +54,13 @@ Bankas karte 3,19
 
 Segment Dok. Nr.: 339/327650 Kase 0031
 FB numurs: 099016178991106
-
 03118424
 
 2023-12-06 16:23:16
+i i s a s
 
 
-Segment 
-Segment 
-Segment 
-Segment 
+Segment HAO T 7aa 23408600917 34AA700AANFNAReARFed
+
+
 Segment 

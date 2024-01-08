@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Spice (Rīga)
+II i — i ā
 
+Segment Rimi Hyper Spice (Rīga)
 Kāse Nr. 31
+d ka a aa SE PE A ieraaiā t n e ejaas
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV00688
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Kartupeļu čipsi Lay's ar čili,
 laima g. 2509
@@ -84,13 +80,12 @@ Bankas karte 8106
 
 Segment Dok. Nr.: 233/221099 Kase 0031
 FB numurs: 096799973244978
-
 03181636
 
 2023-11-17 18:59:26
+I a a a a K E A EONDT AR EEE MS
 
 
-Segment 
 Segment ah T e E TO T RM oA do i 1166 1aaraaem0737
 
 

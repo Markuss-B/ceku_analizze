@@ -234,12 +234,12 @@ PIN KODS PAREIZS ā
 SAGLABĀJIET DOKUMENTU KONTA PĀRBAUDEI
 RRN: 000709229562
 
-Nopelnītā Mans Rimi nauda 1,08
-
+Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 1,08
 Aatlaide ar Mans Rimi karti 2972
+Ietaupījums ar Mans Rimi karti
 
-Ietaupījums ar Mans Rimi karti 6358
+šonmēnes 63,58
 
 Segment Samaksai EUR
 

@@ -1,7 +1,6 @@
 import pytesseract
 import os
 import cv2
-import pdf2image
 from rich.progress import Progress
 from modules.receipt_image_preproces import preprocess_image, detect_lines, segment_image
 
@@ -36,8 +35,6 @@ def scan_receipt(receipt_path):
 
     if receipt_path.endswith('.jpg'):
         receipt_img = cv2.imread(receipt_path)
-    elif receipt_path.endswith('.pdf'):
-        receipt_img = pdf2image.convert_from_path(receipt_path)[0]
     else:
         print(f"File {receipt_path} is not a valid image or pdf file")
         return None
@@ -56,12 +53,12 @@ def scan_receipt(receipt_path):
     text = ""
     i = 0
     for segment in segments:
+        # cv2.imshow('image', segment)
+        # cv2.waitKey(0)
         text += "Segment " + pytesseract.image_to_string(segment, config=options) + "\n"
         # # show text and image
         # text = pytesseract.image_to_string(segment, config=options) + "\n"
         # print(text)
-        # cv2.imshow('image', segment)
-        # cv2.waitKey(0)
 
     # options = "--psm 4 -l lav"
     # text = pytesseract.image_to_string(receipt_path, config=options)

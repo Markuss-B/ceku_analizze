@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Ostmala (Liepāja)
+II i — i ā
 
+Segment Rimi Hyper Ostmala (Liepāja) )
 Kase Nr. 34
+d ka aa aa a IS PE Ā ieraaiā aaa aa
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV00683
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Kartupeļu čipsi Lay's ar čili,
 laima g. 1209
@@ -49,10 +45,10 @@ TSIE600 AIP1980 > čAR0OC:0F1081462851CC10
 Debit Mastercard
 
 KOPĀ: 1,49 EUR
-autorivā t ā ē 739894 T:1
+Autorizācijas Nr 739894 T
+A aa a em s i Š onarmmee
 
-Segment i a T TS I V
-RRN: 000022093027
+Segment RRN: 000022093027
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums o79
@@ -69,12 +65,12 @@ Bankas karte 1149
 
 Segment Dok. Nr.: 168/39612 Kase 0034
 FB numurs: 096789235626714
-
 03409645
 
+2023-12-09 18:48:30
+st a a N k P K R T
 
-Segment 
-Segment 
+
 Segment F ERE N 1Oe 33108038008 11670077074
 
 

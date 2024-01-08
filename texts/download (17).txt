@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Mini Ģertrūdes (Rīga)
+II i — i ā
 
-Kase Nr. 32
+Segment _Rimi Mini Ģertrūdes (Rīga)
+Kase Ne: 32
+S N C K N
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV01089
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Arom. vīna sat. dzēriens
 
@@ -33,13 +29,15 @@ Rimi 3-6cm 670g/370g
 1 gab X 1,99 ĒUR 1,99A
 
 
-Segment ATLAIDES:
-Vīnien, dz. vīniem, šampaniešiem
-=a0% -1,60
+Segment ATLAIDES
+I a P i i
+
+Segment 40% 1,50
 Izmantotā Mans Rimi nauda 197
 
-Tavs ietaupījums 357
+Tavs ietaup
 
+juns 3,57
 
 Segment Maksājumu karte
 
@@ -57,10 +55,10 @@ TSIE600 AIP1980 > <AROC:8AA3C3A2C335FBEA
 Debit Mastercard
 
 KOPĀ: 2,41 EUR
-autorivā t ā ē 221655 T:1
+Autorizācijas Nr 221655 T
+A a a a aaa A am
 
-Segment aa i aa N e PA k IK V
-RRN: 001613540936
+Segment RRN: 001613540936
 
 Segment Mans Rimi naudas uzkrājums
 Aatlaide ar Mans Rimi karti 1,60
@@ -77,13 +75,12 @@ Bankas karte 2,41
 
 Segment Dok. Nr.: 92/60588 Kase 0032
 FB numurs: 096799973769223
-
 03278082
 
 2023-12-02 15:48:37
+II a a a e š a a j ss
 
-Segment 
-Segment 
-Segment 
-Segment 
+
+Segment AOE 708 h RfF4A43780009004 3 horocc109086111A£83Che
+
 Segment 

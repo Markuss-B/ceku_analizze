@@ -1,7 +1,7 @@
 [
     {
         "date": "2024-01-04 12:32:33",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.26,
         "products": [
             {
@@ -26,7 +26,7 @@
     },
     {
         "date": "2023-12-13 16:38:03",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 16.2,
         "products": [
             {
@@ -96,7 +96,7 @@
     },
     {
         "date": "2023-12-12 21:44:54",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.15,
         "products": [
             {
@@ -129,8 +129,8 @@
         ]
     },
     {
-        "date": "2023-12-09 18:48:12",
-        "store": "Rimi",
+        "date": "2023-12-09 18:48:30",
+        "store": "SIA RIMI LATVIA",
         "total": 1.49,
         "products": [
             {
@@ -146,7 +146,7 @@
     },
     {
         "date": "2023-12-06 16:23:16",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.19,
         "products": [
             {
@@ -162,7 +162,7 @@
     },
     {
         "date": "2023-12-06 16:16:00",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.77,
         "products": [
             {
@@ -195,8 +195,8 @@
         ]
     },
     {
-        "date": "2023-12-05 14:21:30",
-        "store": "Rimi",
+        "date": "2023-12-05 14:21:42",
+        "store": "SIA RIMI LATVIA",
         "total": 3.39,
         "products": [
             {
@@ -212,7 +212,7 @@
     },
     {
         "date": "2023-12-03 17:37:40",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.19,
         "products": [
             {
@@ -228,7 +228,7 @@
     },
     {
         "date": "2023-12-02 15:48:37",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.41,
         "products": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "date": "2023-12-01 22:14:27",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 26.96,
         "products": [
             {
@@ -385,8 +385,8 @@
         ]
     },
     {
-        "date": "2023-11-28 14:22:38",
-        "store": "Rimi",
+        "date": "2023-11-28 14:22:41",
+        "store": "SIA RIMI LATVIA",
         "total": 10.62,
         "products": [
             {
@@ -429,7 +429,7 @@
     },
     {
         "date": "2023-12-31 15:14:20",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": null,
         "products": [
             {
@@ -659,7 +659,7 @@
     },
     {
         "date": "2023-11-23 18:34:17",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.84,
         "products": [
             {
@@ -692,8 +692,8 @@
         ]
     },
     {
-        "date": "2023-11-21 21:32:37",
-        "store": "Rimi",
+        "date": "2023-11-21 21:32:39",
+        "store": "SIA RIMI LATVIA",
         "total": 1.45,
         "products": [
             {
@@ -887,7 +887,7 @@
     },
     {
         "date": "2023-11-19 16:16:31",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.69,
         "products": [
             {
@@ -903,7 +903,7 @@
     },
     {
         "date": "2023-11-18 17:09:18",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 15.34,
         "products": [
             {
@@ -964,7 +964,7 @@
     },
     {
         "date": "2023-11-17 18:59:26",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 8.06,
         "products": [
             {
@@ -1016,7 +1016,7 @@
     },
     {
         "date": "2023-11-14 16:41:07",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 50.39,
         "products": [
             {
@@ -1256,8 +1256,8 @@
         ]
     },
     {
-        "date": "2023-11-13 22:08:05",
-        "store": "Rimi",
+        "date": "2023-11-13 22:08:09",
+        "store": "SIA RIMI LATVIA",
         "total": 2.99,
         "products": [
             {
@@ -1273,7 +1273,7 @@
     },
     {
         "date": "2023-12-30 17:18:47",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 12.46,
         "products": [
             {
@@ -1315,8 +1315,8 @@
         ]
     },
     {
-        "date": "2023-11-13 22:08:05",
-        "store": "Rimi",
+        "date": "2023-11-13 22:08:09",
+        "store": "SIA RIMI LATVIA",
         "total": 2.99,
         "products": [
             {
@@ -1332,11 +1332,11 @@
     },
     {
         "date": "2023-11-10 19:09:16",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 7.62,
         "products": [
             {
-                "name": "marinade santa maria ar kiploku garsu 75g",
+                "name": "uzkodas adazu kraukski pupinu ar darz 90g",
                 "price_per_unit": 2.39,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -1365,9 +1365,9 @@
         ]
     },
     {
-        "date": "2023-11-10 14:15:08",
-        "store": "Rimi",
-        "total": 719.0,
+        "date": "2023-11-10 14:15:09",
+        "store": "SIA RIMI LATVIA",
+        "total": 7.19,
         "products": [
             {
                 "name": "dezodorants sebamed fresh 50ml",
@@ -1382,7 +1382,7 @@
     },
     {
         "date": "2023-11-08 16:09:58",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.05,
         "products": [
             {
@@ -1522,7 +1522,7 @@
     },
     {
         "date": "2023-11-05 17:23:14",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.15,
         "products": [
             {
@@ -1538,7 +1538,7 @@
     },
     {
         "date": "2023-10-29 19:46:05",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 23.96,
         "products": [
             {
@@ -1671,7 +1671,7 @@
     },
     {
         "date": "2023-10-28 21:45:58",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.98,
         "products": [
             {
@@ -1714,7 +1714,7 @@
     },
     {
         "date": "2023-10-25 12:55:43",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.37,
         "products": [
             {
@@ -1748,7 +1748,7 @@
     },
     {
         "date": "2023-10-22 19:49:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 9.54,
         "products": [
             {
@@ -1939,7 +1939,7 @@
                 "total_with_discount": null
             },
             {
-                "name": "paprika rimi mini 200g",
+                "name": "baltas pupinas rimi smart 400g",
                 "price_per_unit": 0.59,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -1975,7 +1975,7 @@
                 "total_with_discount": null
             },
             {
-                "name": "paprika rimi mini 200g",
+                "name": "baltas pupinas rimi smart 400g",
                 "price_per_unit": 0.59,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -2158,7 +2158,7 @@
     },
     {
         "date": "2023-10-20 17:12:44",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 16.46,
         "products": [
             {
@@ -2300,7 +2300,7 @@
     },
     {
         "date": "2023-10-16 12:23:43",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 25.89,
         "products": [
             {
@@ -2376,7 +2376,7 @@
                 "total_with_discount": 1.98
             },
             {
-                "name": "limonade cesu 1 5l",
+                "name": "tomati latvijas kg 1sk",
                 "price_per_unit": 2.89,
                 "quantity": 0.214,
                 "measurement_unit": "kg",
@@ -2460,7 +2460,7 @@
     },
     {
         "date": "2023-10-14 16:50:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 9.47,
         "products": [
             {
@@ -2500,7 +2500,7 @@
                 "total_with_discount": 2.19
             },
             {
-                "name": "melna teja ahmad tea english nr 1 100g",
+                "name": "laims c 48 54 kg",
                 "price_per_unit": 3.99,
                 "quantity": 0.084,
                 "measurement_unit": "kg",
@@ -2530,7 +2530,7 @@
     },
     {
         "date": "2023-10-09 15:11:12",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 35.75,
         "products": [
             {
@@ -2762,7 +2762,7 @@
     },
     {
         "date": "2023-12-23 15:51:27",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.32,
         "products": [
             {
@@ -2778,7 +2778,7 @@
     },
     {
         "date": "2023-12-21 19:31:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.28,
         "products": [
             {
@@ -2803,7 +2803,7 @@
     },
     {
         "date": "2023-12-18 20:23:41",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 12.18,
         "products": [
             {
@@ -2873,7 +2873,7 @@
     },
     {
         "date": "2023-12-16 17:49:39",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.07,
         "products": [
             {
@@ -2916,7 +2916,7 @@
     },
     {
         "date": "2023-12-15 22:53:55",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.18,
         "products": [
             {
@@ -2950,7 +2950,7 @@
     },
     {
         "date": "2024-01-04 13:43:35",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 5.44,
         "products": [
             {

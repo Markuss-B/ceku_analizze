@@ -8,15 +8,13 @@ Rimi Mini Ģertrūdes (Rīga)
 
 Kase Nr. 31
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
+d ka ss ē a ISS PE A aaa ā tS
+
+Segment _Šasijas n
+
+
+Segment - — Elektroniska izdruka -
 KLIENTS: 0000000005 826
-
-LV40003053029
-
-SP-LV01113
 
 
 Segment Auzu krēms Tere Deary
@@ -102,10 +100,10 @@ TSIE600 AIP1980 > AR0C:2FB29B0264D0974D
 Debit Mastercard
 
 KOPĀ: 20,75 EUR
-Autorizācijas Nr 865203 T
-SAGLABĀJIET DOKUMENTU KONTA PĀRBAUDEI
-RRN: 001484109564
+Rutorienca a Ne: '865203_ T:1
 
+Segment a a M E M R S E IAS PSES AOTS
+RRN: 001484109564
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 2108

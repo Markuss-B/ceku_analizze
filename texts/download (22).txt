@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Mini Ģertrūdes (Rīga)
+II i — i ā
 
-Kase Nr. 31
+Segment _Rimi Mini Ģertrūdes (Rīga)
+Kase Ne: 31
+R N C N
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV01113
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Šampinjoni Rimi brūnie 250g
 1 gab X 1,49 EUR 149A

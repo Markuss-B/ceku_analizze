@@ -8,15 +8,13 @@ Rimi Hyper Origo (Rīga)
 
 Kāse Nr. 40
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
+d ka a a a R PE A aaa a n j tS
+
+Segment _Šasijas n
+
+
+Segment - — Elektroniska izdruka -
 KLIENTS: 0000000005 826
-
-LV40003053029
-
-SP-LV00699
 
 
 Segment Pupiņas Rimi baltās 4009/240g
@@ -168,10 +166,13 @@ Bankas karte 43168
 
 Segment Dok. Nr.: 325/250918 Kase 0040
 FB numurs: 096795678670872
-
 04034710
 
 2023-11-25 19:29:03
-9b719£67960b670c6a898ceafa2b4f3afc67b32c1
-c013ee3e4765a428d0ed24d2aa4c63£475999595
+ip i t e A K P T
 
+
+Segment CO 13384785478 ANeA74A74063£F4756000606
+
+
+Segment 

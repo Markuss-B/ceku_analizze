@@ -20362,5 +20362,11 @@
     "dabigais tofu Lunter 180g",
     "rimi papira maisins liels ziemassvetku",
     "pokijs ar tofu un poke merci 320g",
-    "plumes tumsas 500g"
+    "plumes tumsas 500g",
+    "cukas kakla karbonade kg",
+    "b v st gabriel riesling sausais 12 0 75l",
+    "grilpanna mini tescoma 14x14cm ss24",
+    "kalts mini tescoma 14cm ss24",
+    "panna mini tescoma 12cm ss24",
+    "rimi kaste"
 ]

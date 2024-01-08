@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Mini Ģertrūdes (Rīga)
+II i — i ā
 
-Kase Nr. 31
+Segment _Rimi Mini Ģertrūdes (Rīga)
+Kase Ne: 31
+R N C N
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV01113
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Sausās brokastis Rimi Choco
 Shells 250g
@@ -53,10 +49,10 @@ TSIE600 AIP1980 > čAR0C:544FE93DFD3C899D
 Debit Mastercard
 
 KOPĀ: 3,28 EUR
-autorivā t ā ē 248898_ T:1
+Autorizācijas Nr 248898 T
+pp j em im su PS> e VĒNN,
 
-Segment i a e k b ka IK AS V
-RRN: 000372041871
+Segment RRN: 000372041871
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 3,65
@@ -78,6 +74,7 @@ FB numurs: 096799974555656
 II A a a A a UE T E TINEN N
 
 
-Segment 
-Segment 
+Segment e AA 0 e aaa e T AA 704 A oa 1A K AR ONOAFA3JEA
+
+
 Segment 

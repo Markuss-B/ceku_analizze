@@ -1,7 +1,7 @@
 [
     {
         "date": "2024-01-04 12:32:33",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.26,
         "products": [
             {
@@ -26,7 +26,7 @@
     },
     {
         "date": "2023-12-13 16:38:03",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 16.2,
         "products": [
             {
@@ -80,11 +80,11 @@
                 "quantity": 1.0,
                 "measurement_unit": "gab",
                 "total": 2.99,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -1.0,
+                "total_with_discount": 1.99
             },
             {
-                "name": "At\u012a. -1,00  Gala cena 1,99 Veg\u0101nais chili sin carne ar r\u012bsiem 400g",
+                "name": "Veg\u0101nais chili sin carne ar r\u012bsiem 400g",
                 "price_per_unit": 3.29,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -96,7 +96,7 @@
     },
     {
         "date": "2023-12-12 21:44:54",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.15,
         "products": [
             {
@@ -129,8 +129,8 @@
         ]
     },
     {
-        "date": "2023-12-09 18:48:12",
-        "store": "Rimi",
+        "date": "2023-12-09 18:48:30",
+        "store": "SIA RIMI LATVIA",
         "total": 1.49,
         "products": [
             {
@@ -146,7 +146,7 @@
     },
     {
         "date": "2023-12-06 16:23:16",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.19,
         "products": [
             {
@@ -162,7 +162,7 @@
     },
     {
         "date": "2023-12-06 16:16:00",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.77,
         "products": [
             {
@@ -195,8 +195,8 @@
         ]
     },
     {
-        "date": "2023-12-05 14:21:30",
-        "store": "Rimi",
+        "date": "2023-12-05 14:21:42",
+        "store": "SIA RIMI LATVIA",
         "total": 3.39,
         "products": [
             {
@@ -212,7 +212,7 @@
     },
     {
         "date": "2023-12-03 17:37:40",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.19,
         "products": [
             {
@@ -228,7 +228,7 @@
     },
     {
         "date": "2023-12-02 15:48:37",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.41,
         "products": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "date": "2023-12-01 22:14:27",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 26.96,
         "products": [
             {
@@ -316,11 +316,11 @@
                 "quantity": 1.0,
                 "measurement_unit": "gab",
                 "total": 169.0,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.2,
+                "total_with_discount": 1.49
             },
             {
-                "name": "At\u012a. -0,20  Gala cena 1,49 Pupi\u0146as Rimi v\u0101r\u012btas 300g'",
+                "name": "Pupi\u0146as Rimi v\u0101r\u012btas 300g'",
                 "price_per_unit": 1.49,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -385,8 +385,8 @@
         ]
     },
     {
-        "date": "2023-11-28 14:22:38",
-        "store": "Rimi",
+        "date": "2023-11-28 14:22:41",
+        "store": "SIA RIMI LATVIA",
         "total": 10.62,
         "products": [
             {
@@ -429,7 +429,7 @@
     },
     {
         "date": "2023-12-31 15:14:20",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": null,
         "products": [
             {
@@ -659,7 +659,7 @@
     },
     {
         "date": "2023-11-23 18:34:17",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.84,
         "products": [
             {
@@ -668,11 +668,11 @@
                 "quantity": 1.0,
                 "measurement_unit": "gab",
                 "total": 149.0,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.22,
+                "total_with_discount": 1.27
             },
             {
-                "name": "Atl. -0,22 | Gala cena 1,27 Tostermaize Toste sendvi\u010du s\u0113klu 470g",
+                "name": "Tostermaize Toste sendvi\u010du s\u0113klu 470g",
                 "price_per_unit": 2.15,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -692,8 +692,8 @@
         ]
     },
     {
-        "date": "2023-11-21 21:32:37",
-        "store": "Rimi",
+        "date": "2023-11-21 21:32:39",
+        "store": "SIA RIMI LATVIA",
         "total": 1.45,
         "products": [
             {
@@ -887,7 +887,7 @@
     },
     {
         "date": "2023-11-19 16:16:31",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.69,
         "products": [
             {
@@ -903,7 +903,7 @@
     },
     {
         "date": "2023-11-18 17:09:18",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 15.34,
         "products": [
             {
@@ -964,7 +964,7 @@
     },
     {
         "date": "2023-11-17 18:59:26",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 8.06,
         "products": [
             {
@@ -1016,7 +1016,7 @@
     },
     {
         "date": "2023-11-14 16:41:07",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 50.39,
         "products": [
             {
@@ -1164,7 +1164,16 @@
                 "total_with_discount": null
             },
             {
-                "name": "Loki 1009, Latvija 1 gab X_1,29 EUR La9r Ban\u0101ni, kg",
+                "name": "Loki 1009, Latvija",
+                "price_per_unit": 1.29,
+                "quantity": 1.0,
+                "measurement_unit": "gab",
+                "total": null,
+                "discount": null,
+                "total_with_discount": null
+            },
+            {
+                "name": "Ban\u0101ni, kg",
                 "price_per_unit": 1.69,
                 "quantity": 0.96,
                 "measurement_unit": "kg",
@@ -1196,11 +1205,11 @@
                 "quantity": 1.0,
                 "measurement_unit": "gab",
                 "total": 2.09,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.3,
+                "total_with_discount": 1.79
             },
             {
-                "name": "cAt1. -0,30 Gala cena 1,79 \u0160anpinjoni br\u016bnie kg",
+                "name": "\u0160anpinjoni br\u016bnie kg",
                 "price_per_unit": 3.89,
                 "quantity": 0.34,
                 "measurement_unit": "kg",
@@ -1247,8 +1256,8 @@
         ]
     },
     {
-        "date": "2023-11-13 22:08:05",
-        "store": "Rimi",
+        "date": "2023-11-13 22:08:09",
+        "store": "SIA RIMI LATVIA",
         "total": 2.99,
         "products": [
             {
@@ -1264,7 +1273,7 @@
     },
     {
         "date": "2023-12-30 17:18:47",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 12.46,
         "products": [
             {
@@ -1282,11 +1291,11 @@
                 "quantity": 1.0,
                 "measurement_unit": "gab",
                 "total": 12.79,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -7.8,
+                "total_with_discount": 4.99
             },
             {
-                "name": "At\u012a. -7,80\u201d Gala cena 4,99 Tostermalze Toste sendvi\u010du s\u0113klu 470g",
+                "name": "Tostermalze Toste sendvi\u010du s\u0113klu 470g",
                 "price_per_unit": 2.15,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -1306,8 +1315,8 @@
         ]
     },
     {
-        "date": "2023-11-13 22:08:05",
-        "store": "Rimi",
+        "date": "2023-11-13 22:08:09",
+        "store": "SIA RIMI LATVIA",
         "total": 2.99,
         "products": [
             {
@@ -1323,11 +1332,11 @@
     },
     {
         "date": "2023-11-10 19:09:16",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 7.62,
         "products": [
             {
-                "name": "ar d\u0101rz. 90g",
+                "name": "Uzkodas \u0100da\u017eu Krauk\u0161\u0137i Pupi\u0146u ar d\u0101rz. 90g",
                 "price_per_unit": 2.39,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -1356,9 +1365,9 @@
         ]
     },
     {
-        "date": "2023-11-10 14:15:08",
-        "store": "Rimi",
-        "total": 719.0,
+        "date": "2023-11-10 14:15:09",
+        "store": "SIA RIMI LATVIA",
+        "total": 7.19,
         "products": [
             {
                 "name": "Dezodorants Sebamed Fresh 50ml",
@@ -1373,7 +1382,7 @@
     },
     {
         "date": "2023-11-08 16:09:58",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 1.05,
         "products": [
             {
@@ -1470,11 +1479,11 @@
                 "quantity": 0.734,
                 "measurement_unit": "kg",
                 "total": null,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.15,
+                "total_with_discount": 1.02
             },
             {
-                "name": "At1l. -0,15 \"Gala cena 1,02 Kartupe\u013ci \u00a3r\u012b Rini 7am sald\u0113ti lkg",
+                "name": "Kartupe\u013ci \u00a3r\u012b Rini 7am sald\u0113ti lkg",
                 "price_per_unit": 2.99,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -1513,7 +1522,7 @@
     },
     {
         "date": "2023-11-05 17:23:14",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.15,
         "products": [
             {
@@ -1529,7 +1538,7 @@
     },
     {
         "date": "2023-10-29 19:46:05",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 23.96,
         "products": [
             {
@@ -1662,7 +1671,7 @@
     },
     {
         "date": "2023-10-28 21:45:58",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.98,
         "products": [
             {
@@ -1705,7 +1714,7 @@
     },
     {
         "date": "2023-10-25 12:55:43",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 4.37,
         "products": [
             {
@@ -1739,7 +1748,7 @@
     },
     {
         "date": "2023-10-22 19:49:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 9.54,
         "products": [
             {
@@ -2016,11 +2025,11 @@
                 "quantity": 0.776,
                 "measurement_unit": "kg",
                 "total": 1.39,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.16,
+                "total_with_discount": 1.23
             },
             {
-                "name": "cAt1. -0,16 \"Gala cena 1,23 \u0160\u0161anpinjoni br\u016bnie kg",
+                "name": "\u0160\u0161anpinjoni br\u016bnie kg",
                 "price_per_unit": 3.89,
                 "quantity": 0.698,
                 "measurement_unit": "kg",
@@ -2088,11 +2097,11 @@
                 "quantity": 0.408,
                 "measurement_unit": "kg",
                 "total": 163.0,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.57,
+                "total_with_discount": 1.06
             },
             {
-                "name": "At1. -0,57 '\"Gala cen\u0101 1,06 Loki \u00a3fas. 100gr",
+                "name": "Loki \u00a3fas. 100gr",
                 "price_per_unit": 0.99,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -2115,11 +2124,11 @@
                 "quantity": 0.078,
                 "measurement_unit": "kg",
                 "total": 0.35,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.11,
+                "total_with_discount": 0.24
             },
             {
-                "name": "At1. -0,11 'Gala cena 0,24 Humoes Rimi Planet ar ol\u012bv\u0101m 1809",
+                "name": "Humoes Rimi Planet ar ol\u012bv\u0101m 1809",
                 "price_per_unit": 2.15,
                 "quantity": 1.0,
                 "measurement_unit": "gab",
@@ -2133,11 +2142,11 @@
                 "quantity": 0.038,
                 "measurement_unit": "kg",
                 "total": null,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.03,
+                "total_with_discount": 0.2
             },
             {
-                "name": "At1. -0,03 '\"Gala cena 0,20 citroni Mayer C/2-3 1. \u0161\u0137ira kg",
+                "name": "citroni Mayer C/2-3 1. \u0161\u0137ira kg",
                 "price_per_unit": 2.29,
                 "quantity": 0.188,
                 "measurement_unit": "kg",
@@ -2149,7 +2158,7 @@
     },
     {
         "date": "2023-10-20 17:12:44",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 16.46,
         "products": [
             {
@@ -2291,7 +2300,7 @@
     },
     {
         "date": "2023-10-16 12:23:43",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 25.89,
         "products": [
             {
@@ -2451,7 +2460,7 @@
     },
     {
         "date": "2023-10-14 16:50:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 9.47,
         "products": [
             {
@@ -2521,7 +2530,7 @@
     },
     {
         "date": "2023-10-09 15:11:12",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 35.75,
         "products": [
             {
@@ -2656,11 +2665,11 @@
                 "quantity": 0.878,
                 "measurement_unit": "kg",
                 "total": null,
-                "discount": null,
-                "total_with_discount": null
+                "discount": -0.09,
+                "total_with_discount": 1.13
             },
             {
-                "name": "At1. -0,09 \"Gala cen\u0101 1,13 Tom\u0101ti Latvijas, kg, 1.\u0161\u0137:",
+                "name": "Tom\u0101ti Latvijas, kg, 1.\u0161\u0137:",
                 "price_per_unit": 2.89,
                 "quantity": 0.268,
                 "measurement_unit": "kg",
@@ -2753,7 +2762,7 @@
     },
     {
         "date": "2023-12-23 15:51:27",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 2.32,
         "products": [
             {
@@ -2769,7 +2778,7 @@
     },
     {
         "date": "2023-12-21 19:31:42",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.28,
         "products": [
             {
@@ -2794,7 +2803,7 @@
     },
     {
         "date": "2023-12-18 20:23:41",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 12.18,
         "products": [
             {
@@ -2864,7 +2873,7 @@
     },
     {
         "date": "2023-12-16 17:49:39",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 6.07,
         "products": [
             {
@@ -2907,7 +2916,7 @@
     },
     {
         "date": "2023-12-15 22:53:55",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 3.18,
         "products": [
             {
@@ -2941,7 +2950,7 @@
     },
     {
         "date": "2024-01-04 13:43:35",
-        "store": "Rimi",
+        "store": "SIA RIMI LATVIA",
         "total": 5.44,
         "products": [
             {

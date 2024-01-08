@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Ostmala (Liepāja)
+II i — i ā
 
+Segment Rimi Hyper Ostmala (Liepāja) )
 Kase Nr. 36
+d ka aa a a SS P P ieraaiā t a tS
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV00685
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Dezodorants Sebamed Fresh 50ml
 1 gab X 7,19 EUR aa
@@ -36,12 +32,12 @@ MASTER CARD akskrkanka**1733
 
 TSIE600 AIP1980 <AROC:752CBF114A1255B2
 Debit Mastercard
-KOPĀ:
-dutoriiāu š jen e 304892
 
+KOPĀ: 7,19 EUR
+Autorizācijas Nr 304892 T
+irapabebri i st L keg 8 s I ĀS i tarta s N
 
-Segment PS saa s a a a e S i a
-RRN: 000853038830
+Segment RRN: 000853038830
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 271
@@ -57,12 +53,13 @@ Bankas karte 719
 
 Segment Dok. Nr.: 80/33811 Kase 0036
 FB numurs: 096808564883511
-
 03608766
 
+2023-11-10 14:15:09
+a e o ab i k P N
 
-Segment 
-Segment 
-Segment 
-Segment 
+
+Segment R E T aa AK D a 10 863803 ilteNroe n doaAa 1oree
+
+
 Segment 

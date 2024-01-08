@@ -1,22 +1,17 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Origo (Rīga)
+II i — i ā
 
+Segment Rimi Hyper Origo (Rīga)
 Kāse Nr. 37
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
+PVN maksātāja numurs: LV40003053029
+Šasijas numurs: SP-LV00314
+
+
+Segment - — Elektroniska izdruka -
 KLIENTS: 0000000005 826
-
-LV40003053029
-
-SP-LV00314
 
 
 Segment Griķu pārslas Rimi 500g
@@ -128,9 +123,9 @@ Debit Mastercard
 
 KOPĀ: 25,89 EUR
 Autorizācijas Nr 711246 T
-SAGLABĀJIET DOKUMENTU KONTA PĀRBAUDEI
-RRN: 002019638344
+a a m s s a aaa
 
+Segment RRN: 002019638344
 
 Segment Nopelnītā Mans Rimi nauda
 Mans Rimi naudas uzkrājums 2187

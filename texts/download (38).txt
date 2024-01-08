@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Mini Ģertrūdes (Rīga)
+II i — i ā
 
-Kase Nr. 32
+Segment _Rimi Mini Ģertrūdes (Rīga)
+Kase Ne: 32
+S N C K N
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV01089
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Tostermaize Toste sendviču
 sēklu 470g
@@ -83,6 +79,7 @@ FB numurs: 096799973769223
 I i a a m em amaTEna engnaaas
 
 
-Segment 
-Segment 
+Segment M aF A em Ba T AAA 38706444708 76A4AA8A0056
+
+
 Segment 

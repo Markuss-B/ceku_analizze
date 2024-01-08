@@ -252,7 +252,7 @@ def extract_total(text):
             total = float(total.replace(',', '.'))
             totals.append(total)
     if len(totals) == 0:
-        print("Total not found")
+        # print("Total not found")
         return None
 
     # if all totals are the same, return that total

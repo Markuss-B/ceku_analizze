@@ -1,23 +1,19 @@
 Segment Rūāmā»v
 
-„Katra diena arvien labāka
-
 SIA RIMI LATVIA
-Jur. adrese: Rīga, A. Deglava iela 161
-Rimi Hyper Origo (Rīga)
+II i — i ā
 
+Segment Rimi Hyper Origo (Rīga)
 Kāse Nr. 33
+d ka a aa R P A saaa aa n aa
 
-PVN maksātāja nunur:
-Šasijas nymur:
-Čeks -:
-- Elektroniska izdruka
-KLIENTS: 0000000005 826
+Segment _Šasijas n
 
-LV40003053029
 
-SP-LV00840
+Segment 
+Segment KOAS 826
 
+KLIENTS:
 
 Segment Vegānais chili sin carne ar
 rīsiem 400g
@@ -48,8 +44,7 @@ FB numurs: 097942436118584
 I a a AA N E EFA REE :
 
 
-Segment 
-Segment 
-Segment 
-Segment 
+Segment BRAF A N A a T E e00 NadANA0AEHK4edA34 470447
+
+
 Segment 
