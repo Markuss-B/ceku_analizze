@@ -9,7 +9,6 @@ User analysis
 Most bought products
 Most expensive products
 Most expensive receipt
-All visits to stores
 '''
 import json
 from rich.console import Console
